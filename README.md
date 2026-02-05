@@ -39,7 +39,7 @@ A smart React packing list application to help you organize your travel essentia
 - **LocalStorage**: All data automatically saved and persisted across page refreshes
 - **No Backend Required**: Everything runs locally in your browser
 
-## Deployment: https://faraway18.netlify.app/
+### Deployment: https://faraway18.netlify.app/
 
 ## 🚀 Getting Started
 
